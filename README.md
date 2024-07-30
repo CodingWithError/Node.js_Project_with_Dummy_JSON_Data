@@ -11,6 +11,7 @@ Welcome to the Node.js Data API project! This API fetches dummy JSON data, store
 - 🚦 Efficient query parameter processing
 
 ## 🏗️ Project Architecture
+```
 📁 src
 ├── 📄 app.js                 # Main entry point
 ├── 📄 config.js              # Configuration settings
@@ -25,7 +26,7 @@ Welcome to the Node.js Data API project! This API fetches dummy JSON data, store
 ├── 📁 data
 │   └── 📄 dummyData.json     # Stored fetched data
 └── 📄 .env                   # Environment variables (create this file)
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
